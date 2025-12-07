@@ -326,26 +326,3 @@ This project is open-source and free to use for personal purposes.
 4. Test thoroughly before deploying
 
 ---
-
-## 📞 Support
-
-For issues or questions:
-1. Check the Usage Guide above
-2. Review the Troubleshooting section
-3. Examine the source code documentation
-
----
-
-## 🙏 Acknowledgments
-
-Built with Python, PyQt5, and SQLite3
-
----
-
-**Version**: 1.0.0  
-**Last Updated**: December 2025  
-**Status**: Production Ready ✅
-
----
-
-**Happy Expense Tracking! 💰**
